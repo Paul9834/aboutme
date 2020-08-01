@@ -3,4 +3,10 @@
     <string name="developer">Kevin Paul Montealegre Melo</string>
     <string name="paul_dev">Developer</string>
     <string name="dev_description">Student of Systems Engineering, Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. Proficient in various platforms and languages. Experienced with the latest innovative development tools and procedures. Able to self-manage during independent projects and collaborate as part of a productive team.</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_skills">Habilidades</string>
+    <string name="title_apps">Aplicaciones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
